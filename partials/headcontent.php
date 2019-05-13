@@ -10,7 +10,10 @@
 <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
 <title>Matrix Template - The Ultimate Multipurpose admin template</title>
 
-<!-- Custom CSS -->
+<!-- Main CSS -->
+<link rel="stylesheet" type="text/css" href="dist/css/style.min.css">
+
+<!-- CSS Libraries -->
 <link rel="stylesheet" type="text/css" href="assets/libs/flot/css/float-chart.css">
 <link rel="stylesheet" type="text/css" href="assets/libs/fullcalendar/dist/fullcalendar.min.css">
 <link rel="stylesheet" type="text/css" href="assets/extra-libs/calendar/calendar.css">
@@ -24,9 +27,6 @@
 <link rel="stylesheet" type="text/css" href="assets/extra-libs/multicheck/multicheck.css">
 <link rel="stylesheet" type="text/css" href="assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.css">
 <link rel="stylesheet" type="text/css" href="assets/libs/magnific-popup/dist/magnific-popup.css">
-
-<!-- Custom CSS -->
-<link rel="stylesheet" type="text/css" href="dist/css/style.min.css">
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
