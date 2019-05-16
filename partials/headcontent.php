@@ -14,19 +14,19 @@
 <link rel="stylesheet" type="text/css" href="dist/css/style.min.css">
 
 <!-- CSS Libraries -->
-<link rel="stylesheet" type="text/css" href="assets/libs/flot/css/float-chart.css">
-<link rel="stylesheet" type="text/css" href="assets/libs/fullcalendar/dist/fullcalendar.min.css">
-<link rel="stylesheet" type="text/css" href="assets/extra-libs/calendar/calendar.css">
-<link rel="stylesheet" type="text/css" href="assets/libs/select2/dist/css/select2.min.css">
-<link rel="stylesheet" type="text/css" href="assets/libs/jquery-minicolors/jquery.minicolors.css">
-<link rel="stylesheet" type="text/css" href="assets/libs/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
-<link rel="stylesheet" type="text/css" href="assets/libs/quill/dist/quill.snow.css">
-<link rel="stylesheet" type="text/css" href="assets/libs/jquery-steps/jquery.steps.css">
-<link rel="stylesheet" type="text/css" href="assets/libs/jquery-steps/steps.css">
-<link rel="stylesheet" type="text/css" href="assets/libs/toastr/build/toastr.min.css">
-<link rel="stylesheet" type="text/css" href="assets/extra-libs/multicheck/multicheck.css">
-<link rel="stylesheet" type="text/css" href="assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.css">
-<link rel="stylesheet" type="text/css" href="assets/libs/magnific-popup/dist/magnific-popup.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/flot/float-chart.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/calendar/fullcalendar.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/calendar/calendar.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/select2/select2.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/jquery-minicolors/jquery.minicolors.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/bootstrap-datepicker/bootstrap-datepicker.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/quill/quill.snow.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/jquery-steps/jquery.steps.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/jquery-steps/steps.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/toastr/toastr.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/multicheck/multicheck.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/datatables/dataTables.bootstrap4.css">
+<link rel="stylesheet" type="text/css" href="assets/css-libs/magnific-popup/magnific-popup.css">
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
