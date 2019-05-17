@@ -1,7 +1,7 @@
 <!-- jQuery -->
 <script src="assets/js-libs/jquery/jquery.min.js"></script>
-<script src="dist/js/jquery.ui.touch-punch-improved.js"></script>
-<script src="dist/js/jquery-ui.min.js"></script>
+<script src="assets/js-libs/jquery-ui/jquery.ui.touch-punch-improved.js"></script>
+<script src="assets/js-libs/jquery-ui/jquery-ui.min.js"></script>
 
 <!-- Bootstrap tether Core JavaScript -->
 <script src="assets/js-libs/popper/popper.min.js"></script>
@@ -12,19 +12,19 @@
 <script src="assets/js-libs/sparkline/sparkline.js"></script>
 
 <!--Wave Effects -->
-<script src="dist/js/waves.js"></script>
+<script src="assets/js-libs/waves/waves.js"></script>
 
 <!--Menu sidebar -->
-<script src="dist/js/sidebarmenu.js"></script>
+<script src="assets/js-libs/sidebar/sidebarmenu.js"></script>
 
 <!-- index2 page js -->
 <script src="assets/js-libs/moment/moment.min.js"></script>
 <script src="assets/js-libs/calendar/fullcalendar.min.js"></script>
-<script src="dist/js/pages/calendar/cal-init.js"></script>
+<script src="assets/js-libs/calendar/cal-init.js"></script>
 
 <!-- forms page js -->
 <script src="assets/js-libs/inputmask/jquery.inputmask.bundle.min.js"></script>
-<script src="dist/js/pages/mask/mask.init.js"></script>
+<script src="assets/js-libs/inputmask/mask.init.js"></script>
 <script src="assets/js-libs/select2/select2.full.min.js"></script>
 <script src="assets/js-libs/select2/select2.min.js"></script>
 <script src="assets/js-libs/jquery-asColor/jquery-asColor.min.js"></script>
@@ -49,7 +49,7 @@
 <script src="assets/js-libs/datatables/datatables.min.js"></script>
 
 <!--Custom JavaScript -->
-<script src="dist/js/custom.min.js"></script>
+<script src="assets/custom/js/custom.min.js"></script>
 
 <!-- Charts js Files -->
 <script src="assets/js-libs/flot/excanvas.js"></script>
@@ -59,7 +59,7 @@
 <script src="assets/js-libs/flot/jquery.flot.stack.js"></script>
 <script src="assets/js-libs/flot/jquery.flot.crosshair.js"></script>
 <script src="assets/js-libs/flot/jquery.flot.tooltip.min.js"></script>
-<script src="dist/js/pages/chart/chart-page-init.js"></script>
+<script src="assets/js-libs/chart/chart-page-init.js"></script>
 <script src="assets/js-libs/chart/matrix.interface.js"></script>
 <script src="assets/js-libs/chart/excanvas.min.js"></script>
 <script src="assets/js-libs/chart/jquery.peity.min.js"></script>

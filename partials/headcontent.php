@@ -11,7 +11,7 @@
 <title>Matrix Template - The Ultimate Multipurpose admin template</title>
 
 <!-- Main CSS -->
-<link rel="stylesheet" type="text/css" href="dist/css/style.min.css">
+<link rel="stylesheet" type="text/css" href="assets/custom/css/style.min.css">
 
 <!-- CSS Libraries -->
 <link rel="stylesheet" type="text/css" href="assets/css-libs/flot/float-chart.css">
