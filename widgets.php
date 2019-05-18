@@ -72,7 +72,12 @@
                             <div class="comment-widgets scrollable">
                                 <!-- Comment Row -->
                                 <div class="d-flex flex-row comment-row m-t-0">
-                                    <div class="p-2"><img src="assets/images/users/1.jpg" alt="user" width="50" class="rounded-circle"></div>
+                                    <div class="p-2">
+										<picture>
+											<source srcset="assets/images/users/1.webp" alt="user" width="50" class="rounded-circle">
+											<img src="assets/images/users/1.jpg" alt="user" width="50" class="rounded-circle">
+										</picture>
+									</div>
                                     <div class="comment-text w-100">
                                         <h6 class="font-medium">James Anderson</h6>
                                         <span class="m-b-15 d-block">Lorem Ipsum is simply dummy text of the printing and type setting industry. </span>
@@ -86,7 +91,12 @@
                                 </div>
                                 <!-- Comment Row -->
                                 <div class="d-flex flex-row comment-row">
-                                    <div class="p-2"><img src="assets/images/users/4.jpg" alt="user" width="50" class="rounded-circle"></div>
+                                    <div class="p-2">
+										<picture>
+											<source srcset="assets/images/users/4.webp" alt="user" width="50" class="rounded-circle">
+											<img src="assets/images/users/4.jpg" alt="user" width="50" class="rounded-circle">
+										</picture>
+									</div>
                                     <div class="comment-text active w-100">
                                         <h6 class="font-medium">Michael Jorden</h6>
                                         <span class="m-b-15 d-block">Lorem Ipsum is simply dummy text of the printing and type setting industry. </span>
@@ -100,7 +110,12 @@
                                 </div>
                                 <!-- Comment Row -->
                                 <div class="d-flex flex-row comment-row">
-                                    <div class="p-2"><img src="assets/images/users/5.jpg" alt="user" width="50" class="rounded-circle"></div>
+                                    <div class="p-2">
+										<picture>
+											<source srcset="assets/images/users/5.webp" alt="user" width="50" class="rounded-circle">
+											<img src="assets/images/users/5.jpg" alt="user" width="50" class="rounded-circle">
+										</picture>
+									</div>
                                     <div class="comment-text w-100">
                                         <h6 class="font-medium">Johnathan Doeting</h6>
                                         <span class="m-b-15 d-block">Lorem Ipsum is simply dummy text of the printing and type setting industry. </span>
@@ -114,7 +129,12 @@
                                 </div>
                                 <!-- Comment Row -->
                                 <div class="d-flex flex-row comment-row">
-                                    <div class="p-2"><img src="assets/images/users/4.jpg" alt="user" width="50" class="rounded-circle"></div>
+                                    <div class="p-2">
+										<picture>
+											<source srcset="assets/images/users/4.webp" alt="user" width="50" class="rounded-circle">
+											<img src="assets/images/users/4.jpg" alt="user" width="50" class="rounded-circle">
+										</picture>
+									</div>
                                     <div class="comment-text w-100">
                                         <h6 class="font-medium">Johnathan Doeting</h6>
                                         <span class="m-b-15 d-block">Lorem Ipsum is simply dummy text of the printing and type setting industry. </span>
@@ -128,7 +148,12 @@
                                 </div>
                                  <!-- Comment Row -->
                                 <div class="d-flex flex-row comment-row">
-                                    <div class="p-2"><img src="assets/images/users/3.jpg" alt="user" width="50" class="rounded-circle"></div>
+                                    <div class="p-2">
+										<picture>
+											<source srcset="assets/images/users/3.webp" alt="user" width="50" class="rounded-circle">
+											<img src="assets/images/users/3.jpg" alt="user" width="50" class="rounded-circle">
+										</picture>
+									</div>
                                     <div class="comment-text w-100">
                                         <h6 class="font-medium">Johnathan Doeting</h6>
                                         <span class="m-b-15 d-block">Lorem Ipsum is simply dummy text of the printing and type setting industry. </span>
@@ -438,19 +463,28 @@
                                 <div class="tab-pane active" id="home" role="tabpanel">
                                     <div class="p-20">
                                         <p>And is full of waffle to It has multiple paragraphs and is full of waffle to pad out the comment. Usually, you just wish these sorts of comments would come to an end.multiple paragraphs and is full of waffle to pad out the comment..</p>
-                                        <img src="assets/images/background/img4.jpg" class="img-fluid">
+                                        <picture>
+											<source srcset="assets/images/background/img4.webp" class="img-fluid">
+											<img src="assets/images/background/img4.jpg" class="img-fluid">
+										</picture>
                                     </div>
                                 </div>
                                 <div class="tab-pane  p-20" id="profile" role="tabpanel">
                                     <div class="p-20">
-                                        <img src="assets/images/background/img4.jpg" class="img-fluid">
-                                        <p class="m-t-10">And is full of waffle to It has multiple paragraphs and is full of waffle to pad out the comment. Usually, you just wish these sorts of comments would come to an end.multiple paragraphs and is full of waffle to pad out the comment..</p>
+										<picture>
+											<source srcset="assets/images/background/img4.webp" class="img-fluid">
+											<img src="assets/images/background/img4.jpg" class="img-fluid">
+                                        </picture>
+										<p class="m-t-10">And is full of waffle to It has multiple paragraphs and is full of waffle to pad out the comment. Usually, you just wish these sorts of comments would come to an end.multiple paragraphs and is full of waffle to pad out the comment..</p>
                                     </div>
                                 </div>
                                 <div class="tab-pane p-20" id="messages" role="tabpanel">
                                     <div class="p-20">
                                         <p>And is full of waffle to It has multiple paragraphs and is full of waffle to pad out the comment. Usually, you just wish these sorts of comments would come to an end.multiple paragraphs and is full of waffle to pad out the comment..</p>
-                                        <img src="assets/images/background/img4.jpg" class="img-fluid">
+                                        <picture>
+											<source srcset="assets/images/background/img4.webp" class="img-fluid">
+											<img src="assets/images/background/img4.jpg" class="img-fluid">
+										</picture>
                                     </div>
                                 </div>
                             </div>
@@ -469,10 +503,30 @@
                                                 </label>
                                             </div>
                                             <ul class="list-style-none assignedto">
-                                                <li class="assignee"><img class="rounded-circle" width="40" src="assets/images/users/1.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Steave"></li>
-                                                <li class="assignee"><img class="rounded-circle" width="40" src="assets/images/users/2.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Jessica"></li>
-                                                <li class="assignee"><img class="rounded-circle" width="40" src="assets/images/users/3.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Priyanka"></li>
-                                                <li class="assignee"><img class="rounded-circle" width="40" src="assets/images/users/4.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Selina"></li>
+                                                <li class="assignee">
+													<picture>
+														<source class="rounded-circle" width="40" srcset="assets/images/users/1.webp" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Steave">
+														<img class="rounded-circle" width="40" src="assets/images/users/1.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Steave">
+													</picture>
+												</li>
+                                                <li class="assignee">
+													<picture>
+														<source class="rounded-circle" width="40" srcset="assets/images/users/2.webp" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Jessica">
+														<img class="rounded-circle" width="40" src="assets/images/users/2.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Jessica">
+													</picture>
+												</li>
+                                                <li class="assignee">
+													<picture>
+														<source class="rounded-circle" width="40" srcset="assets/images/users/3.webp" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Priyanka">
+														<img class="rounded-circle" width="40" src="assets/images/users/3.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Priyanka">
+													</picture>	
+												</li>
+                                                <li class="assignee">
+													<picture>
+														<source class="rounded-circle" width="40" srcset="assets/images/users/4.webp" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Selina">
+														<img class="rounded-circle" width="40" src="assets/images/users/4.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Selina">
+													</picture>
+												</li>
                                             </ul>
                                         </li>
                                         <li class="list-group-item todo-item" data-role="task">
@@ -492,8 +546,18 @@
                                                 </label>
                                             </div>
                                             <ul class="list-style-none assignedto">
-                                                <li class="assignee"><img class="rounded-circle" width="40" src="assets/images/users/3.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Priyanka"></li>
-                                                <li class="assignee"><img class="rounded-circle" width="40" src="assets/images/users/4.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Selina"></li>
+                                                <li class="assignee">
+													<picture>
+														<source class="rounded-circle" width="40" srcset="assets/images/users/3.webp" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Priyanka">
+														<img class="rounded-circle" width="40" src="assets/images/users/3.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Priyanka">
+													</picture>
+												</li>
+                                                <li class="assignee">
+													<picture>
+														<source class="rounded-circle" width="40" srcset="assets/images/users/4.webp" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Selina">
+														<img class="rounded-circle" width="40" src="assets/images/users/4.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Selina">
+													</picture>	
+												</li>
                                             </ul>
                                         </li>
                                         <li class="list-group-item todo-item" data-role="task">
@@ -513,8 +577,18 @@
                                                 </label>
                                             </div>
                                             <ul class="list-style-none assignedto">
-                                                <li class="assignee"><img class="rounded-circle" width="40" src="assets/images/users/3.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Priyanka"></li>
-                                                <li class="assignee"><img class="rounded-circle" width="40" src="assets/images/users/4.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Selina"></li>
+                                                <li class="assignee">
+													<picture>
+														<source class="rounded-circle" width="40" srcset="assets/images/users/3.webp" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Priyanka">
+														<img class="rounded-circle" width="40" src="assets/images/users/3.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Priyanka">
+													</picture>	
+												</li>
+                                                <li class="assignee">
+													<picture>
+														<source class="rounded-circle" width="40" srcset="assets/images/users/4.webp" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Selina">
+														<img class="rounded-circle" width="40" src="assets/images/users/4.jpg" alt="user" data-toggle="tooltip" data-placement="top" title="" data-original-title="Selina">
+													</picture>
+												</li>
                                             </ul>
                                         </li>
                                     </ul>

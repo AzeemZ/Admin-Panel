@@ -526,7 +526,10 @@
                                                 </button>
                                             </div>
                                             <div class="modal-body">
-                                                <img src="assets/images/background/img5.jpg" width="100% ">
+												<picture>
+													<source srcset="assets/images/background/img5.webp" width="100%">
+													<img src="assets/images/background/img5.jpg" width="100%">
+												</picture>
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

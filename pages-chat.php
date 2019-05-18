@@ -73,7 +73,12 @@
                                     <ul class="chat-list">
                                         <!--chat Row -->
                                         <li class="chat-item">
-                                            <div class="chat-img"><img src="assets/images/users/1.jpg" alt="user"></div>
+                                            <div class="chat-img">
+												<picture>
+													<source srcset="assets/images/users/1.webp" alt="user">
+													<img src="assets/images/users/1.jpg" alt="user">
+												</picture>
+											</div>
                                             <div class="chat-content">
                                                 <h6 class="font-medium">James Anderson</h6>
                                                 <div class="box bg-light-info">Lorem Ipsum is simply dummy text of the printing &amp; type setting industry.</div>
@@ -82,7 +87,12 @@
                                         </li>
                                         <!--chat Row -->
                                         <li class="chat-item">
-                                            <div class="chat-img"><img src="assets/images/users/2.jpg" alt="user"></div>
+                                            <div class="chat-img">
+												<picture>
+													<source srcset="assets/images/users/2.webp" alt="user">
+													<img src="assets/images/users/2.jpg" alt="user">
+												</picture>	
+											</div>
                                             <div class="chat-content">
                                                 <h6 class="font-medium">Bianca Doe</h6>
                                                 <div class="box bg-light-info">It’s Great opportunity to work.</div>
@@ -106,7 +116,12 @@
                                         </li>
                                         <!--chat Row -->
                                         <li class="chat-item">
-                                            <div class="chat-img"><img src="assets/images/users/3.jpg" alt="user"></div>
+                                            <div class="chat-img">
+												<picture>
+													<source srcset="assets/images/users/3.webp" alt="user">
+													<img src="assets/images/users/3.jpg" alt="user">
+												</picture>
+											</div>
                                             <div class="chat-content">
                                                 <h6 class="font-medium">Angelina Rhodes</h6>
                                                 <div class="box bg-light-info">Well we have good budget for the project</div>
